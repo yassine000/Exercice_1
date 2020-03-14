@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exercice_1.Immeuble">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Immeuble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercice_1.Maison">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Maison.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercice_1.Batiment" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQQBAAEEAAAAABAAAAAQAAAAAA=</HashCode>
+      <FileName>Batiment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
